@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me
 
-💼 Junior Software Engineer at **GlobalLogic**
+💼 Trainee Software Engineer at **GlobalLogic**
 
 🚀 Aspiring Software Engineer with a strong focus on **Golang** development, aiming to deepen expertise in building scalable, high-performance backend systems.
 
